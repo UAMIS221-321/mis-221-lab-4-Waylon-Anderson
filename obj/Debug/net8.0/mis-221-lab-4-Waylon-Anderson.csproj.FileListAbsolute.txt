@@ -1,0 +1,15 @@
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-Waylon-Anderson\bin\Debug\net8.0\mis-221-lab-4-Waylon-Anderson.exe
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-Waylon-Anderson\bin\Debug\net8.0\mis-221-lab-4-Waylon-Anderson.deps.json
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-Waylon-Anderson\bin\Debug\net8.0\mis-221-lab-4-Waylon-Anderson.runtimeconfig.json
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-Waylon-Anderson\bin\Debug\net8.0\mis-221-lab-4-Waylon-Anderson.dll
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-Waylon-Anderson\bin\Debug\net8.0\mis-221-lab-4-Waylon-Anderson.pdb
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-Waylon-Anderson\obj\Debug\net8.0\mis-221-lab-4-Waylon-Anderson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-Waylon-Anderson\obj\Debug\net8.0\mis-221-lab-4-Waylon-Anderson.AssemblyInfoInputs.cache
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-Waylon-Anderson\obj\Debug\net8.0\mis-221-lab-4-Waylon-Anderson.AssemblyInfo.cs
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-Waylon-Anderson\obj\Debug\net8.0\mis-221-lab-4-Waylon-Anderson.csproj.CoreCompileInputs.cache
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-Waylon-Anderson\obj\Debug\net8.0\mis-221-lab-4-Waylon-Anderson.sourcelink.json
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-Waylon-Anderson\obj\Debug\net8.0\mis-221-lab-4-Waylon-Anderson.dll
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-Waylon-Anderson\obj\Debug\net8.0\refint\mis-221-lab-4-Waylon-Anderson.dll
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-Waylon-Anderson\obj\Debug\net8.0\mis-221-lab-4-Waylon-Anderson.pdb
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-Waylon-Anderson\obj\Debug\net8.0\mis-221-lab-4-Waylon-Anderson.genruntimeconfig.cache
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\mis-221-lab-4-Waylon-Anderson\obj\Debug\net8.0\ref\mis-221-lab-4-Waylon-Anderson.dll
